@@ -1,0 +1,10 @@
+/home/nick/IdeaProjects/crudrestapi/src/main/java/com/mcb/crudrestapi/configuration/JwtRequestFilter.java
+/home/nick/IdeaProjects/crudrestapi/src/main/java/com/mcb/crudrestapi/CrudrestapiApplication.java
+/home/nick/IdeaProjects/crudrestapi/src/main/java/com/mcb/crudrestapi/entity/JwtRequest.java
+/home/nick/IdeaProjects/crudrestapi/src/main/java/com/mcb/crudrestapi/configuration/SwaggerConfig.java
+/home/nick/IdeaProjects/crudrestapi/src/main/java/com/mcb/crudrestapi/configuration/WebSecurityConfig.java
+/home/nick/IdeaProjects/crudrestapi/src/main/java/com/mcb/crudrestapi/configuration/JwtTokenUtil.java
+/home/nick/IdeaProjects/crudrestapi/src/main/java/com/mcb/crudrestapi/service/JwtUserDetailsService.java
+/home/nick/IdeaProjects/crudrestapi/src/main/java/com/mcb/crudrestapi/configuration/JwtAuthenticationEntryPoint.java
+/home/nick/IdeaProjects/crudrestapi/src/main/java/com/mcb/crudrestapi/controller/JwtAuthenticationController.java
+/home/nick/IdeaProjects/crudrestapi/src/main/java/com/mcb/crudrestapi/entity/JwtResponse.java

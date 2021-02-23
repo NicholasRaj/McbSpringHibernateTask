@@ -1,0 +1,3 @@
+com/mcb/crudrestapi/entity/JwtRequest.class
+com/mcb/crudrestapi/entity/JwtResponse.class
+com/mcb/crudrestapi/controller/JwtAuthenticationController.class
